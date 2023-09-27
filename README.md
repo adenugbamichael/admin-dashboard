@@ -1,6 +1,7 @@
 # fullstsck-admin
 A complete full stack admin dashboard application. This application is going to consist of dashboard page, different stats, line chart, transaction table and pie chart. Data is going to be coming from backend. 
 
+Note: The first time you go to the website is going to take sometime to load the APIs.
 
 
 
